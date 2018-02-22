@@ -3,13 +3,13 @@
 The program implements 3 methods of interpolation(Nearest Neighbor, Linear, Quadratic). 
 
 Input:
-1) The file containing the points for which the interpolation is performed.
+1) File containing the points for which the interpolation is performed.
 Format:
 t1, f(t1)
 t2, f(t2)
 ...
 tk, f(tk)
-2) the File contains a set of arguments for which it is necessary to find the interpolated values.
+2) File contains a set of arguments for which it is necessary to find the interpolated values.
 Format:
 t1
 t2
@@ -17,6 +17,7 @@ t2
 tk
 
 Output:
+
 File with the coordinates of the interpolated points.
 Format:
 t1, f(t1)
