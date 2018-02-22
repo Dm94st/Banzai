@@ -14,6 +14,7 @@ t1
 t2
 ...
 tk
+
 Output:
 File with the coordinates of the interpolated points.
 Format:
