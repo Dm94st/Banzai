@@ -4,11 +4,16 @@ The program implements 3 methods of interpolation(Nearest Neighbor, Linear, Quad
 
 Input:
 1) File containing the points for which the interpolation is performed.
+
 Format:
 t1, f(t1)
+
 t2, f(t2)
+
 ...
+
 tk, f(tk)
+
 2) File contains a set of arguments for which it is necessary to find the interpolated values.
 Format:
 t1
