@@ -1,6 +1,7 @@
 # Test-task for Banzai-Games
 
 The program implements 3 methods of interpolation(Nearest Neighbor, Linear, Quadratic). 
+
 Input:
 1) The file containing the points for which the interpolation is performed.
 Format:
