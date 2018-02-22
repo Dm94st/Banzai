@@ -13,4 +13,4 @@ After starting the program, you can choose Interpolate method:
 
 SrcFile1.csv - example of file with source X and Y values(file 1);
 SrcFile2.csv - example of file with args(file 2);
-outFile.csv - example of output file.
+outFile.csv - example of output file(Quadratic method).
