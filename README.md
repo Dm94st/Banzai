@@ -1,4 +1,4 @@
-# Test-task for Banzai-Games
+# Interpolator
 
 The program implements 3 methods of interpolation(Nearest Neighbor, Linear, Quadratic). 
 
